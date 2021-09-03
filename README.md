@@ -6,3 +6,4 @@
 ## 此程序经过测试目前无法在PE，WinRE及系统盘不为C盘的系统下运行
 ## 如果你想让程序在上述情况下运行可以自行修改代码并提交Pull request
 ### [TG群组 @gd1226](https://t.me/gd1226) [TG频道 @gd1226tg](https://t.me/gd1226tg)
+### [爱发电](https://afdian.net/@gd1226)
