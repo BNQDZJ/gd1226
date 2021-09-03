@@ -5,5 +5,8 @@
 # 注意事项
 ## 此程序经过测试目前无法在PE，WinRE及系统盘不为C盘的系统下运行
 ## 如果你想让程序在上述情况下运行可以自行修改代码并提交Pull request
-### <a href="https://t.me/gd1226" target="_blank">TG群组 @gd1226</a> <a href="https://t.me/gd1226tg" target="_blank">TG频道 @gd1226tg</a>
-### <a href="https://afdian.net/@gd1226" target="_blank">爱发电</a>
+<a href="https://t.me/gd1226" target="_blank">TG群组 @gd1226</a>
+<br />
+<a href="https://t.me/gd1226tg" target="_blank">TG频道 @gd1226tg</a>
+<br />
+<a href="https://afdian.net/@gd1226" target="_blank">爱发电</a>
