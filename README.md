@@ -1,3 +1,7 @@
+var renderer = new marked.Renderer();`
+renderer.link = function (href, title, text) {
+    return <a href="${href}" title="${text}" target="_blank">${text}</a>;
+};
 # 由易语言编写的恶意程序
 ## 这个项目于2020年12月26日在gitee上启动，后来由于种种原因被迫停止开发并删库，最后一版保留在谷歌云盘上
 ## 2021年8月29日 该项目在GitHub上重启，重命名为gd1226，版本号由1.1开始开发
