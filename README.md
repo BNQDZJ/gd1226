@@ -9,4 +9,3 @@
 ### [TG群组 @gd1226](https://t.me/gd1226)
 ### [TG频道 @gd1226tg](https://t.me/gd1226tg)
 ### [爱发电](https://afdian.net/@bnqdzj)
-<iframe id="afdian_leaflet_{1}" src="https://afdian.net/leaflet?slug=bnqdzj" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
