@@ -9,3 +9,7 @@
 ### [TG群组 @gd1226](https://t.me/gd1226)
 ### [TG频道 @gd1226tg](https://t.me/gd1226tg)
 ### [爱发电](https://afdian.net/@bnqdzj)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/BNQDZJ/gd1226.svg)](https://starchart.cc/BNQDZJ/gd1226)
